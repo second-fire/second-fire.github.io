@@ -1,5 +1,8 @@
 title: Second Fire
 remote_theme: pmarsceill/just-the-docs
 
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: "dark"
+
 # Enable or disable the site search
 search_enabled: true
